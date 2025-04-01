@@ -4,5 +4,5 @@
 
 void main()
 {
-	printf("%d\n",100-50 );
+	printf("%d",100-50 );
 }
