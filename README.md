@@ -14,5 +14,3 @@ This repository contains practice codes and assignments written during my C lang
 ## Technologies Used
 - Language: C (based on GCC compiler)
 - Development Environment: Visual Studio Code, GCC, Linux/Windows
-
-## Folder Structure
