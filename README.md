@@ -1,6 +1,6 @@
 # Chapter 1 . Understanding the C Language and Installing a Compiler
 
-# What is the C Language?
+## What is the C Language?
 
 C is a powerful and widely-used programming language for creating various types of software, including word processors, spreadsheets, games, and mobile apps.
 
@@ -32,7 +32,7 @@ Developed by computer programmers, C is used for everything from simple calculat
   Learning C makes it easier to pick up most other programming languages.
 
 
-#  How to Write and Run a C Program
+## How to Write and Run a C Program
 
 ## 1. Program Coding
 - Coding means writing instructions in a format that the C compiler can understand and process.
@@ -56,12 +56,8 @@ Developed by computer programmers, C is used for everything from simple calculat
 
 ---
 
-Absolutely! Here’s your sentence summarized and formatted in English for a GitHub README, matching the previous style:
-
----
-
 ## Project Environment
 
-I created the C language files using **Visual Studio**.
+- I created the C language files using **Visual Studio**.
 
 ---
