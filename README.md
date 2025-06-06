@@ -1,4 +1,4 @@
-# Summary: Loop Control in C (while, do-while, break, continue, goto, return)
+# Chapter 7 . Loop Control in C (while, do-while, break, continue, goto, return)
 
 ## 1. **while Loop**
 - The `while` loop repeatedly executes a block of code as long as a specified condition remains true.
