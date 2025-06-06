@@ -1,6 +1,6 @@
 # Chapter 6 . Basics of Loops and the for Loop in C
 
-- The **for loop** is used to repeat a block of code a specific number of times, especially when the number of repetitions is known in advance[1][2][4][5][6].
+- The **for loop** is used to repeat a block of code a specific number of times, especially when the number of repetitions is known in advance.
 
 - **Syntax:**
   ```
