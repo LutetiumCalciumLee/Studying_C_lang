@@ -34,15 +34,15 @@ Developed by computer programmers, C is used for everything from simple calculat
 
 ## How to Write and Run a C Program
 
-## 1. Program Coding
+### 1. Program Coding
 - Coding means writing instructions in a format that the C compiler can understand and process.
 - The initial code is written in a way that only humans can understand.
 
-## 2. Compilation and Linking
+### 2. Compilation and Linking
 - **Compilation:** Converts the human-readable source file into a machine-readable object file that the computer can understand.
 - **Linking:** Combines multiple object files into a single executable file.
 
-## 3. Program Execution
+### 3. Program Execution
 - The generated executable file (.exe) can be run to see the program's output.
 
 ---
