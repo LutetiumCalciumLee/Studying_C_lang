@@ -47,17 +47,8 @@ Developed by computer programmers, C is used for everything from simple calculat
 
 ---
 
-### ⚡ Build Process Summary
-
-- **Build = Compilation + Linking**
-- Even if there is only one source file, both compilation and linking must be performed.
-- Most compilers handle both steps together, so the entire process is often called "build."
-- In some cases, compilation and linking can be done separately if needed.
-
----
-
 ## Project Environment
 
 - I created the C language files using **Visual Studio**.
 
----
+
