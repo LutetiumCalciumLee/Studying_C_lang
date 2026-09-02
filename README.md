@@ -2,7 +2,7 @@
 <summary>ENG (English Version)</summary>
 
 # C Programming Language
-This repository contains my notes and code from studying C programming language during the High-Tech Program in the Department of AI Software.  
+This repository contains my notes and code from studying C programming language as part of the AI Software High-Tech Program. 
 
 ## [Chapter 1 . Understanding the C Language and Installing a Compiler](https://github.com/LutetiumCalciumLee/Studying_C_Programming_Language/tree/Ch.01)
 
@@ -35,7 +35,7 @@ This repository contains my notes and code from studying C programming language 
 <summary>KOR (한국어 버전)</summary>
 
 # C 언어
-이 레포지토리에는 인공지능소프트웨어과 하이테크 과정에서 학습한 C 언어 내용과 코드를 정리하여 업로드했습니다.  
+이 Repository에는 인공지능소프트웨어과 하이테크 과정에서 학습한 C 언어 내용과 코드를 정리하여 업로드했습니다.  
 
 ## [1장. C 언어 이해 및 컴파일러 설치](https://github.com/LutetiumCalciumLee/Studying_C_Programming_Language/tree/Ch.01)
 
